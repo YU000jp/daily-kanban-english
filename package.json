@@ -1,6 +1,6 @@
 {
   "name": "daily-kanban-sidebar-english",
-  "main": "src/index.js",
+  "main": "src/index.html",
   "scripts": {
     "build": "vite build"
   },

@@ -2,9 +2,8 @@ import dragula from "dragula";
 
 import { Status, Task, statusMap } from "./Task";
 import { TaskCollection } from "./TaskCollection";
+import { deleteButton, deleteButtonTitle } from "./../translation";
 
-const deleteButton = "Delete";
-const deleteButtonTitle = "Delete this item";
 
 const borderHighLight = (element: HTMLElement) => {
   const todayColoring = localStorage.getItem("todayColoring") || "#e6ffe6"
