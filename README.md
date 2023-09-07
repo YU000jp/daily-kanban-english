@@ -4,7 +4,7 @@
 - When installed, it displays a vertically long window like a sidebar.
 - Use it by dragging items with the mouse for each day of the week.
 
-  ![image](https://github.com/YU000jp/daily-kanban-sidebar-english/assets/111847207/f5b37c72-c75f-4a49-87b1-8a26c7482d59)
+![image](https://github.com/YU000jp/daily-kanban-sidebar-english/assets/111847207/f5b37c72-c75f-4a49-87b1-8a26c7482d59)
 
 ### Windows Version Installation Link
 
