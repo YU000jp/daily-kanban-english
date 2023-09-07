@@ -1,6 +1,6 @@
 # Kanban Board (Sidebar Type)
 
-- This is a "Kanban Board" application (software for computers).
+- This is a "Kanban Board" application (software).
 - When installed, it displays a vertically long window like a sidebar.
 - Use it by dragging items with the mouse for each day of the week.
 
