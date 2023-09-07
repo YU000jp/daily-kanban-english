@@ -12,7 +12,7 @@
 
 Requires a resolution of 2560 x 1440 or higher.
 
-- [https://github.com/YU000jp/daily-kanban-sidebar-japanese/releases/tag/v0.1.1](https://github.com/YU000jp/daily-kanban-sidebar-japanese/releases/tag/v0.1.1)
+- https://github.com/YU000jp/daily-kanban-sidebar-english/releases/tag/v0.1.1
 
 > Download the .exe file and proceed with the installation. It may be interrupted by security during the process. Since the software is not signed, please proceed by bypassing it.
 
