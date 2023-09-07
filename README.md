@@ -1,26 +1,26 @@
-# かんばんボード (サイドバータイプ)
+# Kanban Board (Sidebar Type)
 
-- 「かんばんボード」のアプリです (パソコン用ソフトウェア)
-- インストールすると、サイドバーのように縦長のウィンドウが表示されます。
-- 各曜日に、項目をマウスでドラッグして使います。
+- This is a "Kanban Board" application (software for computers).
+- When installed, it displays a vertically long window like a sidebar.
+- Use it by dragging items with the mouse for each day of the week.
 
-### デモ
+### Demo
 
   ![DailyKanban](https://github.com/YU000jp/daily-kanban-sidebar-japanese/assets/111847207/32508758-226e-4642-b8c3-1d4bf7b1a3e8)
 
-### Windows版インストールはこちら
+### Windows Version Installation Link
 
-※解像度 2560 x 1440 以上
+Requires a resolution of 2560 x 1440 or higher.
 
 - [https://github.com/YU000jp/daily-kanban-sidebar-japanese/releases/tag/v0.1.1](https://github.com/YU000jp/daily-kanban-sidebar-japanese/releases/tag/v0.1.1)
 
-> .exeファイルをダウンロードして、インストールをおこないます。その途中で、セキュリティで中断がかかるかもしれません。ソフトウェアの署名を実施していないため、回避して進めてください。
+> Download the .exe file and proceed with the installation. It may be interrupted by security during the process. Since the software is not signed, please proceed by bypassing it.
 
-## 仕様
+## Specifications
 
-- OSがダークモードに設定されている場合は、ダークモードが適用されます。
-- サイドバーとして、ほかのウィンドウの隣に、細く縦長に表示させる想定で作りました。
+- If the OS is set to Dark Mode, Dark Mode will be applied.
+- It is designed to be displayed as a narrow vertical sidebar next to other windows.
 
-## 更新履歴
+## Update History
 
-- 2023/09/07 Windows版公開
+- 2023/09/07 Windows version released.

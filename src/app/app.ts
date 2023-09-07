@@ -3,7 +3,7 @@ import { Status, Task, statusMap } from "./Task";
 import { TaskCollection } from "./TaskCollection";
 import { TaskRenderer } from "./TaskRenderer";
 
-const allDeleteConfirmMessage = "DONEのリスト内を空にします";
+const allDeleteConfirmMessage = "Clear DONE list";
 
 function executeAtMidnight() {
   // 画面を開いたとき、および0:00に実行する処理
