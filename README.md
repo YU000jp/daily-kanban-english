@@ -4,11 +4,11 @@
 
 ## Wide Type
 
-https://yu000jp.github.io/wide/english/
+https://yu000jp.github.io/wide/English/
 
 ##  Sidebar Type
 
-https://yu000jp.github.io/sidebar/english/
+https://yu000jp.github.io/sidebar/English/
 
 - It displays a vertically long window as a sidebar content.
 
